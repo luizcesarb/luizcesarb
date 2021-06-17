@@ -49,7 +49,7 @@ class About extends Me
         return [
            'linkedin' => 'https://www.linkedin.com/in/luizcesarb/',
            'email' => 'naosalvar@pm.me',
-           'webSite' => 'https://luizcesar.com/'
+           'webSite' => 'https://luizcesar.com.br/'
         ]
     }
 }
