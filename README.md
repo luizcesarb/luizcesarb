@@ -9,8 +9,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'ProjectOn',
-                'position' => 'Full Stack Developer'         
+                'company' => 'Brand Force Mastery',
+                'position' => 'Front-End Developer'         
             ]
         ];
     }
@@ -20,12 +20,12 @@ class About extends Me
         return [
             Php::class,
             Laravel::class,
+            APIRest::class,
             Javascript::class,
             React::class,
             Vuejs::class,
-            Bootstrap::class,
+            Angular::class,
             Tailwindcss::class,
-            Api::class,
             SqlServer::class,
             PostgreSQL::class,
             Mysql::class,
@@ -35,11 +35,13 @@ class About extends Me
             Git::class,
             Github::class,
             PowerBi::class,
+            Tableau::class,
+            QlikSense::class,
             Scrum::class,
             Kanban::class,
             Lean::class,
             Miro::class,
-            Planner::class,
+            Jira::class,
             
         ];
     }
